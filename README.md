@@ -18,7 +18,7 @@ Click a button on the frontend and get data from the backend ⚡
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/Saksham-Sharma-webdev/Basic-NodeJs-Backend-Server
+git clone https://github.com/Saksham-Sharma-webdev/Basic-Express-Server
 ```
 
 ### 2️⃣ Go to Project Folder
